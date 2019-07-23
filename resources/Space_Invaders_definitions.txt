@@ -1,0 +1,25 @@
+
+# Level 1
+
+START_LEVEL
+level_name:Level 1
+ball_velocities:45,500
+background:color(black)
+paddle_speed:650
+paddle_width:91
+block_definitions:definitions/Space_Invaders_block_definitions.txt
+blocks_start_x:1
+blocks_start_y:20
+row_height:40
+num_blocks:50
+START_BLOCKS
+b+b+b+b+b+b+b+b+b+b
+b+b+b+b+b+b+b+b+b+b
+b+b+b+b+b+b+b+b+b+b
+b+b+b+b+b+b+b+b+b+b
+b+b+b+b+b+b+b+b+b+b
+END_BLOCKS
+END_LEVEL
+
+
+
